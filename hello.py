@@ -1,1 +1,1 @@
-print("hello, left")
+print("hello, left & right")
